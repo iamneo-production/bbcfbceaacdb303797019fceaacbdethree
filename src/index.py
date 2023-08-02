@@ -1,7 +1,0 @@
-print("FDAsgas")
-print("FDAsgas")
-print("FDAsgas")
-print("FDAsgas")
-print("FDAsgas")
-print("FDAsgas")
-print("FDAsgas")
